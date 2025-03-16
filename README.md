@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi there! I'm Harsitha Kannan, a curious and innovative developer with a deep passion for full-stack and Python development. I thrive on solving complex problems and transforming ideas into impactful solutions through code. With a strong foundation in computer science, I am always exploring new technologies and contributing to projects that drive change. My goal is to continuously improve, collaborate with like-minded individuals, and build software that makes a difference in the world.
+👋 Hi there! I'm Harshitha Kannan, a curious and innovative developer with a deep passion for full-stack and Python development. I thrive on solving complex problems and transforming ideas into impactful solutions through code. With a strong foundation in computer science, I am always exploring new technologies and contributing to projects that drive change. My goal is to continuously improve, collaborate with like-minded individuals, and build software that makes a difference in the world.
 
 🔭 Currently working on:
 
