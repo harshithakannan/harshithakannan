@@ -29,5 +29,7 @@ Contributing to open-source Python projects and enhancing my problem-solving ski
 
 📫 How to reach me:
 📧 Email: harshithakannan3@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/harshitha-kannan-62479b256/
+
 🔗 Leetcode: https://leetcode.com/u/harshithakannan/
